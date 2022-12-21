@@ -1,0 +1,5 @@
+git has 4 repositories
+working 
+staging 
+local 
+central or remote
